@@ -12,6 +12,7 @@ public class Student {
         System.out.println("GOOD MORNING");
         System.out.println("HAVE A NICE DAY");
         System.out.println("THANKS FOR USING MYAPP");
+        System.out.println("BYE BYE);
     }
 }
        
