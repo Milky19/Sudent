@@ -14,6 +14,7 @@ public class Student {
         System.out.println("THANKS FOR USING MYAPP");
         System.out.println("BYE BYE");
         System.out.println("===================");
+        System.out.println("POLL SCM");
     }
 }
        
